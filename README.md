@@ -1,3 +1,9 @@
+#Własne testy
+
+Swoje testy napiszcie w katalogu `cypress/e2e/spec.cy.ts`
+
+Aby odpalić cypress użyj `ng e2es`
+
 # AppTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
